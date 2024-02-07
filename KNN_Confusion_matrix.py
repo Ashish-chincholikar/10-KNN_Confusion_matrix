@@ -8,6 +8,7 @@ KNN_Confusion_Matrix
 
 import pandas as pd
 import numpy as np
+import searborn as sns
 
 wbcd = pd.read_csv("C:/Supervised_ML/KNN_Confusion_matrix/wbcd.csv")
 #There are 569rows and 32 columns
